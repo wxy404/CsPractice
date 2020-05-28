@@ -1,0 +1,7 @@
+D:\TECH.C\c#\Practice001\Practice001\bin\Debug\Practice001.exe.config
+D:\TECH.C\c#\Practice001\Practice001\bin\Debug\Practice001.exe
+D:\TECH.C\c#\Practice001\Practice001\bin\Debug\Practice001.pdb
+D:\TECH.C\c#\Practice001\Practice001\obj\Debug\Practice001.csprojAssemblyReference.cache
+D:\TECH.C\c#\Practice001\Practice001\obj\Debug\Practice001.csproj.CoreCompileInputs.cache
+D:\TECH.C\c#\Practice001\Practice001\obj\Debug\Practice001.exe
+D:\TECH.C\c#\Practice001\Practice001\obj\Debug\Practice001.pdb
